@@ -1,6 +1,6 @@
 # Le théorème des deux carrés de Fermat
 
-![Illustration](Pierre_de_Fermat3.jpg)
+<img src="Pierre_de_Fermat3.jpg" width="120">
 
 Projet de recherche en **théorie des nombres** réalisé au **printemps 2025**.
 
