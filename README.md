@@ -13,7 +13,7 @@ Ce travail étudie deux résultats classiques de l'arithmétique :
 
 Le rapport présente les outils mathématiques nécessaires à leur compréhension — congruences, structures algébriques, entiers de Gauss et quaternions — ainsi que différentes approches de démonstration.
 
-📄 Le rapport complet est disponible dans le fichier **`rapport.pdf`**.
+📄 Le rapport complet est disponible dans le fichier **`Théorème_de_Fermat_&_Lagrange_L2.pdf`**.
 
 ---
 
